@@ -1,0 +1,15 @@
+server:
+  port: 8082
+person:
+  name: qinjiang${random.uuid}
+  age: ${random.int}
+  happy: true
+  birth: 2019/11/02
+  map: {k1: v1, k2: v2}
+  lists:
+    - code
+    - music
+    - girl
+  dog:
+    name: ${person.hello:hello}_旺财
+    age: 3

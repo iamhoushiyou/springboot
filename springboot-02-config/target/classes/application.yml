@@ -1,0 +1,16 @@
+#yml具有多文档模式
+server:
+  port: 8081
+spring:
+  profiles: dev
+---
+server:
+  port: 8082
+spring:
+  profiles: test
+---
+server:
+  port: 8083
+spring:
+  profiles:
+    active: dev
