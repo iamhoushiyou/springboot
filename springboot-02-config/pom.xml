@@ -30,6 +30,16 @@
             <scope>runtime</scope>
             <optional>true</optional>
         </dependency>
+<!-- 引入 Theamleaf模板引擎-->
+        <dependency>
+            <groupId>org.thymeleaf</groupId>
+            <artifactId>thymeleaf-spring5</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>org.thymeleaf.extras</groupId>
+            <artifactId>thymeleaf-extras-java8time</artifactId>
+        </dependency>
+        <!-- 引入 Theamleaf模板引擎完-->
         <dependency>
             <groupId>org.projectlombok</groupId>
             <artifactId>lombok</artifactId>

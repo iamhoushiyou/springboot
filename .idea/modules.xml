@@ -5,6 +5,8 @@
       <module fileurl="file://$PROJECT_DIR$/demo.iml" filepath="$PROJECT_DIR$/demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot-01/springboot-01.iml" filepath="$PROJECT_DIR$/springboot-01/springboot-01.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot-02-config/springboot-02-config.iml" filepath="$PROJECT_DIR$/springboot-02-config/springboot-02-config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-security/springboot-03-spring-security.iml" filepath="$PROJECT_DIR$/spring-security/springboot-03-spring-security.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-03-security/springboot-03-springsecurity.iml" filepath="$PROJECT_DIR$/springboot-03-security/springboot-03-springsecurity.iml" />
     </modules>
   </component>
 </project>
